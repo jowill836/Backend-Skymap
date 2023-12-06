@@ -4,7 +4,8 @@ Pour installer `uvicorn`, exécutez la commande suivante :
 
 ```bash
 py -m pip install uvicorn
-
-Pour compiler :
+```
+# Compilation
 ```bash	
 uvicorn main:app --reload
+```	
