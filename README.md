@@ -13,3 +13,5 @@ py -m pip install fastapi
 ```bash	
 py -m uvicorn main:app --reload
 ```	
+# Accès depuis FastAPI
+Pour acceder à la BD ajouter à l'url /docs
