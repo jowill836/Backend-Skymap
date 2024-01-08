@@ -20,7 +20,3 @@ Pour tester l'API que vous venez de créer, vous pouvez utiliser un outil comme 
    - Cliquez sur `Send` pour exécuter la requête. Vous devriez voir la réponse de votre API dans Postman.
 
 6. **Tester les Différentes Routes** : Répétez la procédure pour les différentes routes (`/stars/hottest`, `/stars/closest`, etc.), en changeant l'URL et la méthode (GET ou POST) selon les besoins de chaque route.
-
-
-
-Tester votre API de cette manière vous aidera à comprendre comment elle se comporte en pratique et à identifier les éventuels problèmes à corriger.
